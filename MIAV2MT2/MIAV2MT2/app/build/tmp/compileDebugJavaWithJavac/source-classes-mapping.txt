@@ -1,0 +1,53 @@
+uern/com/br/miapp/Preferences.java
+ uern.com.br.miapp.Preferences
+uern/com/br/miapp/util/Request.java
+ uern.com.br.miapp.util.Request
+ uern.com.br.miapp.util.Request$1
+uern/com/br/miapp/BackgroundListaInfoPaciente.java
+ uern.com.br.miapp.BackgroundListaInfoPaciente
+uern/com/br/miapp/BackgroundNovoLogin.java
+ uern.com.br.miapp.BackgroundNovoLogin
+uern/com/br/miapp/connection/network/Network.java
+ uern.com.br.miapp.connection.network.Network
+uern/com/br/miapp/RowListaInfoPaciente.java
+ uern.com.br.miapp.RowListaInfoPaciente
+uern/com/br/miapp/Login.java
+ uern.com.br.miapp.Login
+uern/com/br/miapp/BackgroundDegluticao.java
+ uern.com.br.miapp.BackgroundDegluticao
+uern/com/br/miapp/recorder/Audio.java
+ uern.com.br.miapp.recorder.Audio
+ uern.com.br.miapp.recorder.Audio$1
+uern/com/br/miapp/connection/bluetooth/Bluetooth.java
+ uern.com.br.miapp.connection.bluetooth.Bluetooth
+ uern.com.br.miapp.connection.bluetooth.Bluetooth$1
+uern/com/br/miapp/BuildConfig.java
+ uern.com.br.miapp.BuildConfig
+uern/com/br/miapp/SenderFiles.java
+ uern.com.br.miapp.SenderFiles
+uern/com/br/miapp/EntradaDegluticao.java
+ uern.com.br.miapp.EntradaDegluticao
+ uern.com.br.miapp.EntradaDegluticao$1
+ uern.com.br.miapp.EntradaDegluticao$2
+ uern.com.br.miapp.EntradaDegluticao$3
+ uern.com.br.miapp.EntradaDegluticao$4
+ uern.com.br.miapp.EntradaDegluticao$5
+uern/com/br/miapp/Processo.java
+ uern.com.br.miapp.Processo
+uern/com/br/miapp/ReceiverData.java
+ uern.com.br.miapp.ReceiverData
+ uern.com.br.miapp.ReceiverData$1
+uern/com/br/miapp/ViewNotification.java
+ uern.com.br.miapp.ViewNotification
+uern/com/br/miapp/Settings.java
+ uern.com.br.miapp.Settings
+ uern.com.br.miapp.Settings$1
+uern/com/br/miapp/ListaInfoPaciente.java
+ uern.com.br.miapp.ListaInfoPaciente
+uern/com/br/miapp/NovoLogin.java
+ uern.com.br.miapp.NovoLogin
+ uern.com.br.miapp.NovoLogin$1
+uern/com/br/miapp/Main.java
+ uern.com.br.miapp.Main
+ uern.com.br.miapp.Main$1
+ uern.com.br.miapp.Main$2

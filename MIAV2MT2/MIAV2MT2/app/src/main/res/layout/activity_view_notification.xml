@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewNotification">
+
+    <TextView
+        android:id="@+id/txtTituloNotificacao"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
+        android:text="Recomendação"
+        android:textAlignment="viewStart"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#006064"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnFecharNotificacao" />
+
+    <TextView
+        android:id="@+id/txtMensagemNotificacao"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="32dp"
+        android:text="Ação recomendada: ingestão oral sob acompanhamento"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#00838F"
+        app:layout_constraintBottom_toTopOf="@+id/txtDataNotificacao"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLegendaNotificacao"
+        app:layout_constraintVertical_bias="0.3" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/btnFecharNotificacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="32dp"
+        android:clickable="true"
+        app:backgroundTint="#D50097A7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/btn_dialog" />
+
+    <TextView
+        android:id="@+id/txtLegendaNotificacao"
+        style="@android:style/Widget.Material.TextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Exley, seu médico Dr(a) Alberto Gomes recomendou o seguinte:"
+        android:textColor="#00838F"
+        app:layout_constraintEnd_toEndOf="@+id/txtTituloNotificacao"
+        app:layout_constraintStart_toStartOf="@+id/txtTituloNotificacao"
+        app:layout_constraintTop_toBottomOf="@+id/txtTituloNotificacao" />
+
+    <TextView
+        android:id="@+id/txtDataNotificacao"
+        style="@android:style/Widget.Material.TextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Postado por Dr(a) Alberto Gomes no dia 18/06/2021"
+        android:textColor="#00838F"
+        app:layout_constraintBottom_toTopOf="@+id/txtAtualizacaoNotificacao"
+        app:layout_constraintEnd_toEndOf="@+id/txtMensagemNotificacao"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/txtMensagemNotificacao" />
+
+    <TextView
+        android:id="@+id/txtAtualizacaoNotificacao"
+        style="@android:style/Widget.Material.TextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="Atualizado pela última vez em 18/06/2021 "
+        android:textAlignment="viewStart"
+        android:textColor="#00838F"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txtDataNotificacao"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/txtDataNotificacao" />
+
+</android.support.constraint.ConstraintLayout>

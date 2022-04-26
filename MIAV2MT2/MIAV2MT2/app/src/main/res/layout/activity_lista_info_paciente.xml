@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="uern.com.br.miapp.ListaInfoPaciente">
+
+
+    <TextView
+        android:id="@+id/listaInfoPaciente"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="Verify connection"
+        app:layout_constraintBottom_toBottomOf="@+id/txtDysphagiaType"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/txtDysphagiaType"
+        app:layout_constraintTop_toTopOf="@+id/txtDysphagiaType" />
+
+    <TextView
+        android:id="@+id/alimentoIndicado"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="Verify connection"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/txtRecomendedFood"
+        app:layout_constraintTop_toBottomOf="@+id/listaInfoPaciente" />
+
+    <TextView
+        android:id="@+id/consistenciaAlimento"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="Verify connection"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/txtFoodConsistency"
+        app:layout_constraintTop_toBottomOf="@+id/alimentoIndicado" />
+
+    <TextView
+        android:id="@+id/txtDysphagiaType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Dysphagia Type:"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtRecomendedFood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recomended Food:"
+        app:layout_constraintStart_toStartOf="@+id/txtDysphagiaType"
+        app:layout_constraintTop_toTopOf="@+id/alimentoIndicado" />
+
+    <TextView
+        android:id="@+id/txtFoodConsistency"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Food Consistency:"
+        app:layout_constraintStart_toStartOf="@+id/txtRecomendedFood"
+        app:layout_constraintTop_toTopOf="@+id/consistenciaAlimento" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_paciente.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\activity_info_paciente.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagemalimentoliquido.jpg.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\drawable\\imagemalimentoliquido.jpg"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagemalimentosolido.jpg.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\drawable\\imagemalimentosolido.jpg"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagemalimentopastoso.jpg.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\drawable\\imagemalimentopastoso.jpg"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_notification.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\activity_view_notification.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lista_info_paciente.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\activity_lista_info_paciente.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_novo_login.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\activity_novo_login.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recorder.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\activity_recorder.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_lista_info_paciente.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\row_lista_info_paciente.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_inflate.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\layout_inflate.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_entrada_degluticao.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\activity_entrada_degluticao.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "D:\\MIAAPP\\MIAV2MT2\\MIAV2MT2\\app\\src\\main\\res\\layout\\login.xml"
+    }
+]
